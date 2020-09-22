@@ -1,0 +1,38 @@
+[0]
+TITLE=The Temple
+DESC=   You stand in the Temple of Paradise.
+SOUTH=-1
+EAST=1
+WEST=-1
+UP=-1
+DOWN=-1
+[1]
+TITLE=The Donation
+DESC=You are standing in the donations room.
+NORTH=-1
+SOUTH=2
+EAST=-1
+WEST=0
+UP=-1
+DOWN=-1
+[2]
+TITLE=The Church
+DESC=You are standing in the village church.
+NORTH=1
+SOUTH=3
+EAST=-1
+WEST=-1
+UP=-1
+DOWN=-1
+[3]
+TITLE=The Green
+DESC=You are standing in my poop. Get out of my poop!
+NORTH=2
+SOUTH=-1
+EAST=-1
+WEST=-1
+UP=-1
+DOWN=-1
+
+
+

@@ -1,0 +1,18 @@
+[Mob0]
+NAME=jason
+PNAME=Jason May
+DESC=Jason May is standing here.
+EXAMINE=He is here.
+LOCATION=3
+HP=1000
+DAMAGE=5
+Speed=160
+[Mob1]
+NAME=damian
+PNAME=Damian Miller
+DESC=Damian Milller is here, downloading VB 5.0.
+EXAMINE=He looks like a big moron...
+LOCATION=1
+HP=150
+DAMAGE=30
+SPEED=100
